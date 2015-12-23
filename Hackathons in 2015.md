@@ -121,6 +121,7 @@ Credits for the data can be found at the very end of the post.
 
 | Date      | Event | Theme | Location |
 | --------- | ----- | ----- | -------- |
+| 3-5 Aug   | [Hacking Health @ HIC](http://www.hisa.org.au/hic/hackinghealth/) | Health | Brisbane Convention Centre, Brisbane QLD |
 | 8-9 Aug   | [UQCS Hackathon 2015](https://uqcs.org.au/hackathon/index.html) | Uni Students | University of Queensland, Brisbane QLD |
 | 15-16 Aug | [UNIHACK](http://unihack.net) | General, Uni Students | Inspire9, Richmond VIC |
 | 17-19 Aug | Startup Weekend Adelaide | Startups | New Venutre Institute, Clovelly Park SA |
@@ -139,6 +140,7 @@ Credits for the data can be found at the very end of the post.
 | Date      | Event | Theme | Location |
 | --------- | ----- | ----- | -------- |
 | 5-6 Sep   | [AWShine Hack Sydney](http://aws.amazon.com/events/awshine/) | Women in IT, Amazon run | BlueChilli, Sydney NSW |
+| 10-11 Sep | [SCA Digital Spark](https://twitter.com/SCA_Spark) | Internal | 2Day FM, Sydney NSW |
 | 18-20 Sep | Startup Weekend Central Coast | Startups | Gosford Smart Work Hub, Gosford NSW |
 | 19-20 Sep | [AWShine Hack Sydney](http://aws.amazon.com/events/awshine/) | Women in IT, Amazon run | York Butter Factory, Melbourne VIC |
 | 19-20 Sep | [Hackagong](http://hackagong.com/) | "Make something awesome" | University of Wollongong, NSW |
@@ -208,6 +210,7 @@ Credits for the data can be found at the very end of the post.
 | 5-6 Dec   | Random Hacks of Kindness Melbourne Summer Hackathon | Social Good | Swinburne University, Hawthorn VIC |
 | 5-6 Dec   | Random Hacks of Kindness Parramatta Summer Hackathon | Social Good | UWS LaunchPad, Kingswood NSW |
 | 12-13 Dec | [GE Industrial Hackathon](http://gereports.com.au/gehack/) | Industrial | Carlton Connect Initiative, Melbourne VIC |
+| 14-15 Dec | SCA Digital Spark | Internal | Fox FM, Melbourne VIC |
 | 19-20 Dec | [Hacking Hackathons Australia](https://www.facebook.com/events/327865734050729/) | Hackathon Australia website | Fishburners, Sydney NSW |
 | 22 Dec    | Outware Mobile Hackathon #4 | The Future of Retail | Outware Mobile HQ, Melbourne |
 
