@@ -11,6 +11,13 @@ Credits for the data can be found at the very end of the post.
 | Date      | Event | Theme | Location |
 | --------- | ----- | ----- | -------- |
 | 18-22 Jan | Atlassian HackHouse | Internal | Unknown NSW |
+| 23-25 Jan | [Melbourne Global Game Jam 2015](http://www.eventbrite.com.au/e/melbourne-global-game-jam-2015-tickets-14185572429) | Game Jam | Swinburne University, Hawthorn VIC |
+| 23-25 Jan | [Sydney Global Game Jam](http://www.eventbrite.com.au/e/sydney-global-game-jam-2015-tickets-15109897109) | Game Jam | Northern Sydney Institute, St Leonards NSW |
+| 23-25 Jan | [Perth Global Game Jam - North](http://letsmakegames.org/2015/01/08/global-game-jam-2015-is-on-the-way/) | Game Jam | Edith Cowan University, Mt Lawley WA |
+| 23-25 Jan | [Perth Global Game Jam - South](http://letsmakegames.org/2015/01/08/global-game-jam-2015-is-on-the-way/) | Game Jam | Murdoch University, Murdoch WA |
+| 23-25 Jan | [Adelaide Global Game Jam](http://www.jamalaide.org.au/jams/ggj-2015/) | Game Jam | Universiety of Adelaide, Adelaide SA |
+| 23-25 Jan | [Hobart Global Game Jam](https://hobarthackerspace.org.au/node/34/) | Game Jam | Hobart Hackerspace, New Town TAS |
+| 23-25 Jan | Canberra Global Game Jam | Game Jam | AIE Canberra Campus, Watson ACT |
 | 31 Jan - 1 Feb | [BattleHack Melbourne](https://2015.battlehack.org/melbourne) | PayPal run | Plaza Ballroom, Melbourne VIC |
 
 ## February
@@ -19,6 +26,7 @@ Credits for the data can be found at the very end of the post.
 | --------- | ----- | ----- | -------- |
 | 31 Jan - 1 Feb | [BattleHack Melbourne](https://2015.battlehack.org/melbourne) | PayPal run | Plaza Ballroom, Melbourne VIC |
 | 3 Feb     | Pink Sheets Hackathon - Sydney | Pink Sheets (?) | Quay West Suites, Sydney NSW |
+| 6-13 Feb  | OpenBSD Southern Mini-Hackathon S2k15 | OpenBSD | University of Queensland, Brisbane QLD |
 | 7 - 8 Feb | [Masters of Code](http://www.hackathon.io/mastercard-masters/) | MasterCard run | Fishburners, Sydney NSW |
 | 12-13 Feb | REA Hack Day 18 | Internal | REA HQ, Melbourne VIC |
 | 13 Feb    | [TAC Pause the Road Toll](http://www.tac.vic.gov.au/road-safety/towards-zero/safer-people/pause-the-road-toll-tac-hackathon) | Ideas Hack, Reducing Road Toll | ACMI Studios, Melbourne VIC |
@@ -28,6 +36,7 @@ Credits for the data can be found at the very end of the post.
 
 | Date      | Event | Theme | Location |
 | --------- | ----- | ----- | -------- |
+| 14-15 Mar | Hack To Your Future | Recruitment Hackathon, by Seamless CMS | Inspire9, Richmond VIC |
 | 18-19 Mar | Cisco DevNet Hackathon | Cisco run | MECC, Melbourne VIC |
 | 20-22 Mar | [Unearthed Solutions](http://unearthed.solutions) | Mining | Spacecubed, Perth WA |
 | 27-29 Mar | Startup Weekend FinTech Melbourne | Startups, FinTech | York Butter Factory, Melbourne VIC |
@@ -44,6 +53,7 @@ Credits for the data can be found at the very end of the post.
 | 18-19 Apr | Telstra Hackdivate | Develop solutions for charities | Melbourne VIC |
 | 18-19 Apr | Telstra Hackdivate | Develop solutions for charities | Sydney NSW |
 | 18-19 Apr | [Facebook Sydney Hackathon](https://www.facebook.com/events/609290135873591/) | Facebook, for Students | Facebook Sydney HQ, Sydney |
+| 18-21 Apr | [Ludum Dare 32](http://www.jamalaide.org.au/jams/ld-32/) | Game Jam | Universiety of Adelaide, Adelaide SA |
 
 ## May
 
@@ -62,8 +72,10 @@ Credits for the data can be found at the very end of the post.
 | 20-22 May | REA Hack Day 19 | Internal | REA HQ, Melbourne VIC |
 | 22-24 May | Startup Weekend Perth | Startups | Spacecubed, Perth WA |
 | 23 May    | [Cybertraders Anonymous Hackathon #1](http://www.meetup.com/Cybertraders-Anonymous/events/222365024/) | Apache Spark | Tyro Fintech Hub, Sydney NSW |
+| 27-29 May | MyHack Perth | Countering violent extremism | Perth, VIC |
 | 29-31 May | Startup Weekend Tourism & Hospitality | Startups, Tourism | Cairns Airport, Cairns QLD |
 | 30 May    | Design for Aid: UX Hackathon with WhyDev and General Assembly | UX | Queens Collective, Melbourne VIC |
+| 30 May    | [Xamarin Hack Day](http://www.eventbrite.com/e/zzxamarin-hack-day-melbourne-tickets-14892355436) | Hack Day, Xamarin | Inspire9, Richmond VIC |
 | 30-31 May | Qantas Hackathon | Qantas | Qantas Centre of Service Excellence, Sydney NSW |
 | 30-31 May | Random Hacks of Kindness Melbourne Winter Hackathon | Social Good | Swinburne University, Hawthorn VIC |
 | 30-31 May | VicTripathon Tech Jam | Transport | Teamsquare, Melbourne VIC |
@@ -74,6 +86,7 @@ Credits for the data can be found at the very end of the post.
 | --------- | ----- | ----- | -------- |
 | 1 Jun - 31 Jul | [CrowdSourceHire API Developer Contest](http://app.crowdsourcehire.com/challenge/muru-D/index.php) | Telstra SMS or BuiltWith Domain API | Virtual |
 | 10-12 Jun | Seek Hackathon 4 | Internal | Seek HQ, Melbourne VIC |
+| 10-12 Jun | [CVE 2015 Hackabout](http://www.cvehackabout.com/) | Develop solutions countering violent extremism |
 | 13-14 Jun | Random Hacks of Kindness Sydney Winter Hackathon | Social Good | Commonwealth Bank Place South, Sydney NSW |
 | 13-14 Jun | Random Hacks of Kindness Brisbane Winter Hackathon | Social Good | NetEngine HQ, Fortitude Valley QLD |
 | 13-14 Jun | [TADHack](http://tadhack.com/2015/tadhack-global/#melbourne) | Telecommunications | Oracle HQ, Melbourne VIC |
@@ -115,6 +128,7 @@ Credits for the data can be found at the very end of the post.
 | 17-19 Jul | [TIE Create-a-thon](http://www.tie-women.org.au/) | Ideas Hack, Women in IT | Fishburners, Sydney NSW |
 | 22-24 Jul | [CommBank & University of Adelaide Hackathon](http://www.eventbrite.com.au/e/commbank-university-of-adelaide-hackathon-2015-registration-17271402229) | CommBank Albert | University of Adelaide, Adelaide SA |
 | 25 Jul    | CtA and Quantitative Portfolio Management Hackathon | Machine Learning for Price Prediction | Tyro Fintech HQ, Sydney NSW |
+| 29-30 Jul | Australia Post Hack Dayz | Internal | Australia Post HQ, Melbourne VIC |
 | 1 Jun - 31 Jul | [CrowdSourceHire API Developer Contest](http://app.crowdsourcehire.com/challenge/muru-D/index.php) | Telstra SMS or BuiltWith Domain API | Virtual |
 
 ## August
@@ -128,7 +142,9 @@ Credits for the data can be found at the very end of the post.
 | 19-21 Aug | REA Hack Day 20 | Internal | REA HQ, Melbourne VIC |
 | 20 Aug    | [Light Makers Mini-Hackathon](http://www.eventbrite.com.au/e/light-makers-your-library-mini-hackathon-bringing-treasures-into-the-light-using-the-trove-api-tickets-17999237203) | Kids Hackathon | Curtin University Library, WA |
 | 21-23 Aug | [SheHacks 2015 Melbourne](http://www.eventbrite.com.au/e/shehacks-melbourne-2015-tickets-17540605423) | Women in IT | York Butter Factory, Melbourne VIC |
-| 21-21 Aug | [Nexpaq Hackathon](https://nexpaq.com/hackathon/) | Modular Gadget/IoT | Carlton Connect Initiative, Melbourne VIC |
+| 21-23 Aug | [Nexpaq Hackathon](https://nexpaq.com/hackathon/) | Modular Gadget/IoT | Carlton Connect Initiative, Melbourne VIC |
+| 21-23 Aug | [Adelaide Game Jam 2015](http://www.jamalaide.org.au/jams/agj-2015/) | Game Jam | AIE Adelaide, Adelaide SA |
+| 22-23 Aug | [Ludum Dare 33](http://www.jamalaide.org.au/jams/ld-33/) | Game Jam | Universiety of Adelaide, Adelaide SA |
 | 24 Aug    | AngelCube Startup Hack | Startups | Inspire9, Richmond VIC |
 | 28-29 Aug | [Switch Fest Inter Industry Tournament](http://www.switchfest.org/) | General | University of New South Wales, Sydney NSW |
 | 28-30 Aug | [Unearthed Solutions](http://unearthed.solutions) | Mining | Fishburners, Sydney NSW |
@@ -142,8 +158,11 @@ Credits for the data can be found at the very end of the post.
 | 5-6 Sep   | [AWShine Hack Sydney](http://aws.amazon.com/events/awshine/) | Women in IT, Amazon run | BlueChilli, Sydney NSW |
 | 10-11 Sep | [SCA Digital Spark](https://twitter.com/SCA_Spark) | Internal | 2Day FM, Sydney NSW |
 | 18-20 Sep | Startup Weekend Central Coast | Startups | Gosford Smart Work Hub, Gosford NSW |
+| 19 Sep    | [Xamarin Hack Day](https://www.eventbrite.com/e/zzxamarin-hack-day-brisbane-tickets-17039715247) | Hack Day, Xamarin | Microsoft Brisbane, Brisbane QLD |
 | 19-20 Sep | [AWShine Hack Sydney](http://aws.amazon.com/events/awshine/) | Women in IT, Amazon run | York Butter Factory, Melbourne VIC |
 | 19-20 Sep | [Hackagong](http://hackagong.com/) | "Make something awesome" | University of Wollongong, NSW |
+| 23-25 Sep | MyHack Melbourne | Countering violent extremism | Melbourne, VIC |
+| 26 Sep    | [Xamarin Hack Day](http://www.eventbrite.com/e/zzxamarin-hack-day-sydney-tickets-14892335376) | Hack Day, Xamarin | University of New South Wales, Kensington NSW |
 | 26-27 Sep | CodeBrew | General | York Butter Factory, Melbourne VIC |
 | 26-27 Sep | Freelancer.com Hackathon | Freelancer API | Freelancer HQ, Sydney NSW |
 | 26-27 Sep | Microsoft Hackathon 2015 | Smart Cities | University of Newcastle, Callaghan NSW |
@@ -195,6 +214,7 @@ Credits for the data can be found at the very end of the post.
 | 27-29 Nov | [Herald Sun Codefest](http://hscodefest.azurewebsites.net/) | News Corp API | Carlton Connect Initiative, Melbourne VIC |
 | 27-29 Nov | [Wagga Hack 4 Good](https://www.facebook.com/events/506695436176279/) | Social Change | Charles Sturt University, Wagga Wagga NSW |
 | 27-29 Nov | [NAB Hackathon Challenge](http://developer.nab.com.au/) | NAB API | Fishburners, Sydney NSW |
+| 27-29 Nov | [QUT HACK](https://www.eventbrite.com/e/quthack-tickets-19563321421) | Uni Students | QUT, Brisbane QLD |
 | 28-29 Nov | [GE Industrial Hackathon](http://gereports.com.au/gehack/) | Industrial | GE Offices, Sydney NSW |
 | 28-29 Nov | [Techfugees](https://www.eventbrite.com.au/e/techfugees-australia-hackathon-tickets-19351828841) | Refugee Crisis Response | Liverpool Library, Sydney NSW |
 | 28-29 Nov | Random Hacks of Kindness Sydney Summer Hackathon | Social Good | BlueChilli, Sydney NSW |
@@ -209,7 +229,9 @@ Credits for the data can be found at the very end of the post.
 | 2-4 Dec   | [MyHack Sydney](https://www.eventbrite.com.au/e/myhack-sydney-fishburners-tickets-19294343902) | Countering violent extremism | Fishburners, Sydney NSW |
 | 5-6 Dec   | Random Hacks of Kindness Melbourne Summer Hackathon | Social Good | Swinburne University, Hawthorn VIC |
 | 5-6 Dec   | Random Hacks of Kindness Parramatta Summer Hackathon | Social Good | UWS LaunchPad, Kingswood NSW |
+| 9-10 Dec  | Australia Post Hack Dayz | Internal | Australia Post HQ, Melbourne VIC |
 | 12-13 Dec | [GE Industrial Hackathon](http://gereports.com.au/gehack/) | Industrial | Carlton Connect Initiative, Melbourne VIC |
+| 12-15 Dec | [Ludum Dare 34](http://www.jamalaide.org.au/jams/ld-34/) | Game Jam | Universiety of Adelaide, Adelaide SA |
 | 14-15 Dec | SCA Digital Spark | Internal | Fox FM, Melbourne VIC |
 | 19-20 Dec | [Hacking Hackathons Australia](https://www.facebook.com/events/327865734050729/) | Hackathon Australia website | Fishburners, Sydney NSW |
 | 22 Dec    | Outware Mobile Hackathon #4 | The Future of Retail | Outware Mobile HQ, Melbourne |
@@ -224,3 +246,4 @@ Some of the hackathons listed were found from:
 * hackathon.io
 * Cybertraders Anonymous (http://www.meetup.com/Cybertraders-Anonymous)
 * Melbourne Hackathons by Steven de Salas (https://github.com/sdesalas/melbourne-hackathons/)
+* Code for Australia (http://www.codeforaustralia.org/events)
