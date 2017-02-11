@@ -1,0 +1,34 @@
+Million is 1000000.
+Nothing is, Million minus Million;
+
+The fortune of Donald is 20000000.
+The fortune of Hillary is Nothing.
+
+Make Statement that, Donald is Hillary?;
+
+As long as, the Statement is a lie?; Then:
+	
+	Make Ted, Donald leftover 15000000;
+	Make Marco, Donald leftover 5000000;
+	Make Jeb, Donald leftover 3000000;
+
+	If, Ted is Nothing?; Then: 
+		Say "Fizz Buzz"!
+	Else: 
+		If, Marco is Nothing?; Then: 
+			Say "Buzz"!
+		Else: 
+			If, Jeb is Nothing?; Then: 
+				Say "Fizz"!
+			Else: 
+				Say, Donald over Million.
+			Great!
+		Great!
+	Great!
+
+	The fortune of Donald is, old Donald minus Million;
+	Make Statement that, Donald is Hillary?;
+
+Amazing!
+
+America is Great.
